@@ -1,6 +1,11 @@
 # realtime-tts
 
+
+
+<!---
 ![realtime-tts Logo](https://i.imgur.com/JEScmwU.png)
+-->
+
 
 realtime-tts is an application that converts your text into speech right after the enter key is pressed. It does not yet support realtime conversion of text to speech
 
